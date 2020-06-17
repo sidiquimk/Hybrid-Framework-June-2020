@@ -1,0 +1,13 @@
+
+As a user i need to signup and create an account
+
+As a user i want to login to my account
+
+As a user i want to use search box and look for items
+
+As a user i want to open Women Tab and verrify Women text and collaps tops and Dresses and uncollaps Tops and click and open Casual Dresses and verify Casual Dresses text
+
+As a user i want to open Dresses Tab and verrify Dresses text and select different colors
+
+As a user i want to open T-Shirts Tab and verrify Catalog text and thick different sizes and select different colors
+
